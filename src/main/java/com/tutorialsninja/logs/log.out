@@ -1,0 +1,182 @@
+2023-05-16 19:05:216 INFO  HomePage :62 - mouse hover on desktoplink and click.
+2023-05-16 19:05:412 INFO  HomePage :47 - Selecting a topMenu: Show AllDesktops
+2023-05-16 19:05:776 INFO  DesktopsPage :184 - Selection of sort by position Name: Z to A[[ChromeDriver: chrome on WINDOWS (b85161f6ffbf803efb0b8f555fbe8305)] -> id: input-sort]
+2023-05-16 19:05:341 INFO  DesktopsPage :189 - Displaying products in descending order
+2023-05-16 19:05:790 INFO  HomePage :62 - mouse hover on desktoplink and click.
+2023-05-16 19:05:952 INFO  HomePage :47 - Selecting a topMenu: Show AllDesktops
+2023-05-16 19:05:133 INFO  DesktopsPage :184 - Selection of sort by position Name: Z to A[[ChromeDriver: chrome on WINDOWS (8ea65d89c36393b4c4a9a3d41e28b492)] -> id: input-sort]
+2023-05-16 19:05:700 INFO  DesktopsPage :174 - click on product HPLP3065
+2023-05-16 19:05:321 INFO  DesktopsPage :168 - get Text HPLP3065
+2023-05-16 19:05:360 INFO  DesktopsPage :142 - select date from Calender
+2023-05-16 19:05:227 INFO  DesktopsPage :132 -  enter Quantity[[ChromeDriver: chrome on WINDOWS (8ea65d89c36393b4c4a9a3d41e28b492)] -> xpath: //input[@id='input-quantity']]
+2023-05-16 19:05:297 INFO  DesktopsPage :137 - clicking on add to cart.
+2023-05-16 19:05:369 INFO  DesktopsPage :127 - getting shopping cart text
+2023-05-16 19:05:890 INFO  DesktopsPage :121 - click on shopping cart
+2023-05-16 19:05:739 INFO  DesktopsPage :96 - get shopping cart text
+2023-05-16 19:05:782 INFO  DesktopsPage :101 - get product name HPLP3065Text
+2023-05-16 19:05:804 INFO  DesktopsPage :106 - verify delivery date
+2023-05-16 19:05:821 INFO  DesktopsPage :116 - Verify total
+2023-05-16 19:05:838 INFO  DesktopsPage :111 - verify model product21
+2023-05-16 19:05:287 INFO  HomePage :62 - mouse hover on desktoplink and click.
+2023-05-16 19:05:441 INFO  HomePage :47 - Selecting a topMenu: Show AllDesktops
+2023-05-16 19:05:523 INFO  HomePage :67 - Getting text from: [[ChromeDriver: chrome on WINDOWS (b61163d00706d6200139209a658d6da7)] -> xpath: //h2[contains(text(),'Desktops')]]
+2023-05-16 19:05:180 INFO  HomePage :72 - mouse hover on laptopsAndNotebooksLink and click.
+2023-05-16 19:05:333 INFO  HomePage :47 - Selecting a topMenu: Show AllLaptops & Notebooks
+2023-05-16 19:05:630 INFO  HomePage :77 - Getting text from: [[ChromeDriver: chrome on WINDOWS (1281a05e700d8c599051ed933992ed49)] -> xpath: //h2[contains(text(),'Laptops & Notebooks')]]
+2023-05-16 19:05:41 INFO  HomePage :82 - mouse hover on componentsLink and click.
+2023-05-16 19:05:195 INFO  HomePage :47 - Selecting a topMenu: Show AllComponents
+2023-05-16 19:05:81 INFO  HomePage :87 - Getting text from: [[ChromeDriver: chrome on WINDOWS (1386256816dcc58a6282790dacc68a7d)] -> xpath: //h2[contains(text(),'Components')]]
+2023-05-16 19:05:285 INFO  HomePage :72 - mouse hover on laptopsAndNotebooksLink and click.
+2023-05-16 19:05:436 INFO  LaptopsAndNoteBooksPage :135 - click on show all laptops and notebooks
+2023-05-16 19:05:229 INFO  LaptopsAndNoteBooksPage :140 - select sort by high to low
+2023-05-16 19:05:753 INFO  LaptopsAndNoteBooksPage :145 - Verify the Product price will arrange in High to Low order before sorting
+2023-05-16 19:05:853 INFO  LaptopsAndNoteBooksPage :161 - Verify the Product price will arrange in High to Low order after sorting
+2023-05-16 19:05:134 INFO  HomePage :72 - mouse hover on laptopsAndNotebooksLink and click.
+2023-05-16 19:05:279 INFO  LaptopsAndNoteBooksPage :135 - click on show all laptops and notebooks
+2023-05-16 19:05:52 INFO  LaptopsAndNoteBooksPage :140 - select sort by high to low
+2023-05-16 19:05:616 INFO  LaptopsAndNoteBooksPage :174 - clicking on Macbook.
+2023-05-16 19:05:622 INFO  LaptopsAndNoteBooksPage :179 - verify text Macbook
+2023-05-16 19:05:661 INFO  LaptopsAndNoteBooksPage :184 - clicking on add to cart.
+2023-05-16 19:05:757 INFO  LaptopsAndNoteBooksPage :189 - get added Macbook text
+2023-05-16 19:05:48 INFO  LaptopsAndNoteBooksPage :194 - clicking on shopping cart.
+2023-05-16 19:05:845 INFO  LaptopsAndNoteBooksPage :199 - Verify text shopping cart 
+2023-05-16 19:05:878 INFO  LaptopsAndNoteBooksPage :204 - Verify product name Macbook
+2023-05-16 19:05:897 INFO  LaptopsAndNoteBooksPage :209 - change quantity
+2023-05-16 19:05:996 INFO  LaptopsAndNoteBooksPage :216 - click on update tab
+2023-05-16 19:05:905 INFO  LaptopsAndNoteBooksPage :221 - Verify modified shopping cart
+2023-05-16 19:05:939 INFO  LaptopsAndNoteBooksPage :226 - Verify total
+2023-05-16 19:05:963 INFO  LaptopsAndNoteBooksPage :231 - clicking on checkout button.
+2023-05-16 19:05:571 INFO  LaptopsAndNoteBooksPage :236 - Verify the text checkout
+2023-05-16 19:05:607 INFO  LaptopsAndNoteBooksPage :241 - Verify the text Newcustomer
+2023-05-16 19:05:629 INFO  LaptopsAndNoteBooksPage :246 - clicking on guest checkout radiobutton.
+2023-05-16 19:05:689 INFO  LaptopsAndNoteBooksPage :251 - clicking on continue tab.
+2023-05-16 19:05:151 INFO  LaptopsAndNoteBooksPage :256 - Enter fNameJohnto firstName [[ChromeDriver: chrome on WINDOWS (5afb6cbb70f703d8b32db5b152bd1298)] -> id: input-payment-firstname]
+2023-05-16 19:05:430 INFO  LaptopsAndNoteBooksPage :261 - Enter lName Smithto lastName  [[ChromeDriver: chrome on WINDOWS (5afb6cbb70f703d8b32db5b152bd1298)] -> id: input-payment-lastname]
+2023-05-16 19:05:589 INFO  LaptopsAndNoteBooksPage :266 - Enter emailId john123@gmail.comto email [[ChromeDriver: chrome on WINDOWS (5afb6cbb70f703d8b32db5b152bd1298)] -> id: input-payment-email]
+2023-05-16 19:05:721 INFO  LaptopsAndNoteBooksPage :271 - Enter number 056981239to telephone[[ChromeDriver: chrome on WINDOWS (5afb6cbb70f703d8b32db5b152bd1298)] -> id: input-payment-telephone]
+2023-05-16 19:05:830 INFO  LaptopsAndNoteBooksPage :276 - Enter add CrossWayto address [[ChromeDriver: chrome on WINDOWS (5afb6cbb70f703d8b32db5b152bd1298)] -> id: input-payment-address-1]
+2023-05-16 19:05:924 INFO  LaptopsAndNoteBooksPage :276 - Enter add CrossWayto address [[ChromeDriver: chrome on WINDOWS (5afb6cbb70f703d8b32db5b152bd1298)] -> id: input-payment-address-1]
+2023-05-16 19:05:02 INFO  LaptopsAndNoteBooksPage :281 - Enter cityName Sloughto city [[ChromeDriver: chrome on WINDOWS (5afb6cbb70f703d8b32db5b152bd1298)] -> id: input-payment-city]
+2023-05-16 19:05:98 INFO  LaptopsAndNoteBooksPage :286 - Enter postalCode363641to postcode[[ChromeDriver: chrome on WINDOWS (5afb6cbb70f703d8b32db5b152bd1298)] -> id: input-payment-postcode]
+2023-05-16 19:05:175 INFO  LaptopsAndNoteBooksPage :291 - select country from dropdown
+2023-05-16 19:05:272 INFO  LaptopsAndNoteBooksPage :296 - select region from dropdown
+2023-05-16 19:05:378 INFO  LaptopsAndNoteBooksPage :301 - clicking on continue button.
+2023-05-16 19:05:426 INFO  LaptopsAndNoteBooksPage :306 - Add Comments About your order into text area
+2023-05-16 19:05:673 INFO  LaptopsAndNoteBooksPage :311 - clicking on Terms & Conditions check box.
+2023-05-16 19:05:731 INFO  LaptopsAndNoteBooksPage :316 - clicking On Continue button.
+2023-05-16 19:05:794 INFO  LaptopsAndNoteBooksPage :321 - verify Message Payment Method Required
+2023-05-16 19:05:689 INFO  LoginPage :58 - Selecting my account optionsLogin
+2023-05-16 19:05:302 INFO  LoginPage :70 - Getting text Returning Customer” 
+2023-05-16 19:05:744 INFO  LoginPage :58 - Selecting my account optionsLogin
+2023-05-16 19:05:287 INFO  LoginPage :100 - Enter emailIdmagnussmith123@gmail.comto email[[ChromeDriver: chrome on WINDOWS (d8f8d51e8c636c629f16f3da964b6d69)] -> id: input-email]
+2023-05-16 19:05:445 INFO  LoginPage :105 - Enter  passwordFieldsmith123456to password[[ChromeDriver: chrome on WINDOWS (d8f8d51e8c636c629f16f3da964b6d69)] -> id: input-password]
+2023-05-16 19:05:504 INFO  LoginPage :75 - Clicking on login button.
+2023-05-16 19:05:382 INFO  LoginPage :80 - Getting text My account
+2023-05-16 19:05:425 INFO  LoginPage :58 - Selecting my account optionsLogout
+2023-05-16 19:05:371 INFO  LoginPage :90 - Getting the text account logout
+2023-05-16 19:05:404 INFO  LoginPage :95 - Clicking on continue link.
+2023-05-16 19:05:237 INFO  RegisterPage :94 - Selecting my account optionsRegister
+2023-05-16 19:05:100 INFO  RegisterPage :107 - Verifying text register account
+2023-05-16 19:05:278 INFO  RegisterPage :94 - Selecting my account optionsRegister
+2023-05-16 19:05:535 INFO  RegisterPage :122 - Enter emailId
+2023-05-16 19:05:721 INFO  RegisterPage :112 - Enter fNameMagnusto firstName [[ChromeDriver: chrome on WINDOWS (bc887f2cce7c82160971c2fbb3afe6f5)] -> id: input-firstname]
+2023-05-16 19:05:797 INFO  RegisterPage :117 - Enter lName Smithto lastName  [[ChromeDriver: chrome on WINDOWS (bc887f2cce7c82160971c2fbb3afe6f5)] -> id: input-lastname]
+2023-05-16 19:05:874 INFO  RegisterPage :132 - Enter telNum0782565511to telephone[[ChromeDriver: chrome on WINDOWS (bc887f2cce7c82160971c2fbb3afe6f5)] -> xpath: //input[@id='input-telephone']]
+2023-05-16 19:05:956 INFO  RegisterPage :137 - Enter passWord smith123456to Password[[ChromeDriver: chrome on WINDOWS (bc887f2cce7c82160971c2fbb3afe6f5)] -> id: input-password]
+2023-05-16 19:05:30 INFO  RegisterPage :142 - Enter confirmPassword smith123456to confirmPassword[[ChromeDriver: chrome on WINDOWS (bc887f2cce7c82160971c2fbb3afe6f5)] -> id: input-confirm]
+2023-05-16 19:05:88 INFO  RegisterPage :147 - clicking on radiobutton.
+2023-05-16 19:05:138 INFO  RegisterPage :152 - Clicking on privacy policy checkbox.
+2023-05-16 19:05:187 INFO  RegisterPage :157 - Clicking on continue button.
+2023-05-16 19:05:193 INFO  RegisterPage :162 - Verifying message account created
+2023-05-16 19:05:222 INFO  RegisterPage :167 - Clicking on continue tab
+2023-05-16 19:05:819 INFO  RegisterPage :94 - Selecting my account optionsLogout
+2023-05-16 19:05:819 INFO  RegisterPage :177 - Verify the text account logout
+2023-05-16 19:05:853 INFO  RegisterPage :182 - Clicking on continue.
+2023-05-16 21:05:771 INFO  HomePage :62 - mouse hover on desktoplink and click.
+2023-05-16 21:05:972 INFO  HomePage :47 - Selecting a topMenu: Show AllDesktops
+2023-05-16 21:05:109 INFO  DesktopsPage :184 - Selection of sort by position Name: Z to A[[ChromeDriver: chrome on WINDOWS (3e36b61465b293ab8f229c5cb27b7dd1)] -> id: input-sort]
+2023-05-16 21:05:698 INFO  DesktopsPage :189 - Displaying products in descending order
+2023-05-16 21:05:51 INFO  HomePage :62 - mouse hover on desktoplink and click.
+2023-05-16 21:05:206 INFO  HomePage :47 - Selecting a topMenu: Show AllDesktops
+2023-05-16 21:05:286 INFO  DesktopsPage :184 - Selection of sort by position Name: Z to A[[ChromeDriver: chrome on WINDOWS (792d12069a6cd0699ad66e81dfb3cc0e)] -> id: input-sort]
+2023-05-16 21:05:920 INFO  DesktopsPage :174 - click on product HPLP3065
+2023-05-16 21:05:385 INFO  DesktopsPage :168 - get Text HPLP3065
+2023-05-16 21:05:420 INFO  DesktopsPage :142 - select date from Calender
+2023-05-16 21:05:619 INFO  DesktopsPage :132 -  enter Quantity[[ChromeDriver: chrome on WINDOWS (792d12069a6cd0699ad66e81dfb3cc0e)] -> xpath: //input[@id='input-quantity']]
+2023-05-16 21:05:703 INFO  DesktopsPage :137 - clicking on add to cart.
+2023-05-16 21:05:770 INFO  DesktopsPage :127 - getting shopping cart text
+2023-05-16 21:05:747 INFO  DesktopsPage :121 - click on shopping cart
+2023-05-16 21:05:887 INFO  DesktopsPage :96 - get shopping cart text
+2023-05-16 21:05:981 INFO  DesktopsPage :101 - get product name HPLP3065Text
+2023-05-16 21:05:101 INFO  HomePage :62 - mouse hover on desktoplink and click.
+2023-05-16 21:05:261 INFO  HomePage :47 - Selecting a topMenu: Show AllDesktops
+2023-05-16 21:05:963 INFO  HomePage :67 - Getting text from: [[ChromeDriver: chrome on WINDOWS (9e16baab380670859455ac6025533c7d)] -> xpath: //h2[contains(text(),'Desktops')]]
+2023-05-16 21:05:492 INFO  HomePage :72 - mouse hover on laptopsAndNotebooksLink and click.
+2023-05-16 21:05:654 INFO  HomePage :47 - Selecting a topMenu: Show AllLaptops & Notebooks
+2023-05-16 21:05:403 INFO  HomePage :77 - Getting text from: [[ChromeDriver: chrome on WINDOWS (f1a9246449f599c172fb3ad722bec5a1)] -> xpath: //h2[contains(text(),'Laptops & Notebooks')]]
+2023-05-16 21:05:297 INFO  HomePage :82 - mouse hover on componentsLink and click.
+2023-05-16 21:05:450 INFO  HomePage :47 - Selecting a topMenu: Show AllComponents
+2023-05-16 21:05:304 INFO  HomePage :87 - Getting text from: [[ChromeDriver: chrome on WINDOWS (a032c4c9014edf25b0c9a475274c6cad)] -> xpath: //h2[contains(text(),'Components')]]
+2023-05-16 21:05:434 INFO  HomePage :72 - mouse hover on laptopsAndNotebooksLink and click.
+2023-05-16 21:05:595 INFO  LaptopsAndNoteBooksPage :135 - click on show all laptops and notebooks
+2023-05-16 21:05:392 INFO  LaptopsAndNoteBooksPage :140 - select sort by high to low
+2023-05-16 21:05:651 INFO  LaptopsAndNoteBooksPage :145 - Verify the Product price will arrange in High to Low order before sorting
+2023-05-16 21:05:757 INFO  LaptopsAndNoteBooksPage :161 - Verify the Product price will arrange in High to Low order after sorting
+2023-05-16 21:05:148 INFO  HomePage :72 - mouse hover on laptopsAndNotebooksLink and click.
+2023-05-16 21:05:306 INFO  LaptopsAndNoteBooksPage :135 - click on show all laptops and notebooks
+2023-05-16 21:05:85 INFO  LaptopsAndNoteBooksPage :140 - select sort by high to low
+2023-05-16 21:05:565 INFO  LaptopsAndNoteBooksPage :174 - clicking on Macbook.
+2023-05-16 21:05:470 INFO  LaptopsAndNoteBooksPage :179 - verify text Macbook
+2023-05-16 21:05:511 INFO  LaptopsAndNoteBooksPage :184 - clicking on add to cart.
+2023-05-16 21:05:632 INFO  LaptopsAndNoteBooksPage :189 - get added Macbook text
+2023-05-16 21:05:43 INFO  LaptopsAndNoteBooksPage :194 - clicking on shopping cart.
+2023-05-16 21:05:843 INFO  LaptopsAndNoteBooksPage :199 - Verify text shopping cart 
+2023-05-16 21:05:880 INFO  LaptopsAndNoteBooksPage :204 - Verify product name Macbook
+2023-05-16 21:05:902 INFO  LaptopsAndNoteBooksPage :209 - change quantity
+2023-05-16 21:05:22 INFO  LaptopsAndNoteBooksPage :216 - click on update tab
+2023-05-16 21:05:915 INFO  LaptopsAndNoteBooksPage :221 - Verify modified shopping cart
+2023-05-16 21:05:949 INFO  LaptopsAndNoteBooksPage :226 - Verify total
+2023-05-16 21:05:976 INFO  LaptopsAndNoteBooksPage :231 - clicking on checkout button.
+2023-05-16 21:05:583 INFO  LaptopsAndNoteBooksPage :236 - Verify the text checkout
+2023-05-16 21:05:608 INFO  LaptopsAndNoteBooksPage :241 - Verify the text Newcustomer
+2023-05-16 21:05:634 INFO  LaptopsAndNoteBooksPage :246 - clicking on guest checkout radiobutton.
+2023-05-16 21:05:689 INFO  LaptopsAndNoteBooksPage :251 - clicking on continue tab.
+2023-05-16 21:05:190 INFO  LaptopsAndNoteBooksPage :256 - Enter fNameJohnto firstName [[ChromeDriver: chrome on WINDOWS (f978245bc694a1c796a3b79b4cf55a16)] -> id: input-payment-firstname]
+2023-05-16 21:05:530 INFO  LaptopsAndNoteBooksPage :261 - Enter lName Smithto lastName  [[ChromeDriver: chrome on WINDOWS (f978245bc694a1c796a3b79b4cf55a16)] -> id: input-payment-lastname]
+2023-05-16 21:05:660 INFO  LaptopsAndNoteBooksPage :266 - Enter emailId john123@gmail.comto email [[ChromeDriver: chrome on WINDOWS (f978245bc694a1c796a3b79b4cf55a16)] -> id: input-payment-email]
+2023-05-16 21:05:793 INFO  LaptopsAndNoteBooksPage :271 - Enter number 056981239to telephone[[ChromeDriver: chrome on WINDOWS (f978245bc694a1c796a3b79b4cf55a16)] -> id: input-payment-telephone]
+2023-05-16 21:05:919 INFO  LaptopsAndNoteBooksPage :276 - Enter add CrossWayto address [[ChromeDriver: chrome on WINDOWS (f978245bc694a1c796a3b79b4cf55a16)] -> id: input-payment-address-1]
+2023-05-16 21:05:30 INFO  LaptopsAndNoteBooksPage :276 - Enter add CrossWayto address [[ChromeDriver: chrome on WINDOWS (f978245bc694a1c796a3b79b4cf55a16)] -> id: input-payment-address-1]
+2023-05-16 21:05:117 INFO  LaptopsAndNoteBooksPage :281 - Enter cityName Sloughto city [[ChromeDriver: chrome on WINDOWS (f978245bc694a1c796a3b79b4cf55a16)] -> id: input-payment-city]
+2023-05-16 21:05:216 INFO  LaptopsAndNoteBooksPage :286 - Enter postalCode363641to postcode[[ChromeDriver: chrome on WINDOWS (f978245bc694a1c796a3b79b4cf55a16)] -> id: input-payment-postcode]
+2023-05-16 21:05:312 INFO  LaptopsAndNoteBooksPage :291 - select country from dropdown
+2023-05-16 21:05:417 INFO  LaptopsAndNoteBooksPage :296 - select region from dropdown
+2023-05-16 21:05:536 INFO  LaptopsAndNoteBooksPage :301 - clicking on continue button.
+2023-05-16 21:05:586 INFO  LaptopsAndNoteBooksPage :306 - Add Comments About your order into text area
+2023-05-16 21:05:530 INFO  LaptopsAndNoteBooksPage :311 - clicking on Terms & Conditions check box.
+2023-05-16 21:05:577 INFO  LaptopsAndNoteBooksPage :316 - clicking On Continue button.
+2023-05-16 21:05:653 INFO  LaptopsAndNoteBooksPage :321 - verify Message Payment Method Required
+2023-05-16 21:05:632 INFO  LoginPage :58 - Selecting my account optionsLogin
+2023-05-16 21:05:291 INFO  LoginPage :70 - Getting text Returning Customer” 
+2023-05-16 21:05:766 INFO  LoginPage :58 - Selecting my account optionsLogin
+2023-05-16 21:05:363 INFO  LoginPage :100 - Enter emailIdmagnussmith123@gmail.comto email[[ChromeDriver: chrome on WINDOWS (07e1b1467d27f670edac658720b9e7c5)] -> id: input-email]
+2023-05-16 21:05:549 INFO  LoginPage :105 - Enter  passwordFieldsmith123456to password[[ChromeDriver: chrome on WINDOWS (07e1b1467d27f670edac658720b9e7c5)] -> id: input-password]
+2023-05-16 21:05:617 INFO  LoginPage :75 - Clicking on login button.
+2023-05-16 21:05:44 INFO  LoginPage :80 - Getting text My account
+2023-05-16 21:05:515 INFO  RegisterPage :94 - Selecting my account optionsRegister
+2023-05-16 21:05:507 INFO  RegisterPage :107 - Verifying text register account
+2023-05-16 21:05:601 INFO  RegisterPage :94 - Selecting my account optionsRegister
+2023-05-16 21:05:657 INFO  RegisterPage :122 - Enter emailId
+2023-05-16 21:05:875 INFO  RegisterPage :112 - Enter fNameMagnusto firstName [[ChromeDriver: chrome on WINDOWS (0ef547f8cb380ab8a973ddbcce66d283)] -> id: input-firstname]
+2023-05-16 21:05:944 INFO  RegisterPage :117 - Enter lName Smithto lastName  [[ChromeDriver: chrome on WINDOWS (0ef547f8cb380ab8a973ddbcce66d283)] -> id: input-lastname]
+2023-05-16 22:05:74 INFO  RegisterPage :132 - Enter telNum0782565511to telephone[[ChromeDriver: chrome on WINDOWS (0ef547f8cb380ab8a973ddbcce66d283)] -> xpath: //input[@id='input-telephone']]
+2023-05-16 22:05:166 INFO  RegisterPage :137 - Enter passWord smith123456to Password[[ChromeDriver: chrome on WINDOWS (0ef547f8cb380ab8a973ddbcce66d283)] -> id: input-password]
+2023-05-16 22:05:250 INFO  RegisterPage :142 - Enter confirmPassword smith123456to confirmPassword[[ChromeDriver: chrome on WINDOWS (0ef547f8cb380ab8a973ddbcce66d283)] -> id: input-confirm]
+2023-05-16 22:05:327 INFO  RegisterPage :147 - clicking on radiobutton.
+2023-05-16 22:05:383 INFO  RegisterPage :152 - Clicking on privacy policy checkbox.
+2023-05-16 22:05:466 INFO  RegisterPage :157 - Clicking on continue button.
+2023-05-16 22:05:299 INFO  RegisterPage :162 - Verifying message account created
+2023-05-16 22:05:340 INFO  RegisterPage :167 - Clicking on continue tab
+2023-05-16 22:05:791 INFO  RegisterPage :94 - Selecting my account optionsLogout
+2023-05-16 22:05:742 INFO  RegisterPage :177 - Verify the text account logout
+2023-05-16 22:05:793 INFO  RegisterPage :182 - Clicking on continue.
